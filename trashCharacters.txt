@@ -3,3 +3,4 @@ trashCharacters :-
 2. Choji
 3. Oda
 4. Jean
+5. shou(fool)
